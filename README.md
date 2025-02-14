@@ -168,7 +168,7 @@ what an official GitHub CLI tool can look like with a fundamentally different de
 tools bring GitHub to the terminal, `hub` behaves as a proxy to `git`, and `gh` is a standalone
 tool. Check out our [more detailed explanation][gh-vs-hub] to learn more.
 
-[manual]: https://cli.github.com/manual/
+  [manual]: https://cli.github.com/manual/
 [Homebrew]: https://brew.sh
 [MacPorts]: https://www.macports.org
 [winget]: https://github.com/microsoft/winget-cli
